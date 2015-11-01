@@ -1,6 +1,6 @@
 <?php 
 
-//Çàäà÷à: double_base_palindromes
+//Ð—Ð°Ð´Ð°Ñ‡Ð°: double_base_palindromes
 
 //The decimal number 585 is 1001001001 in binary. It is palindromic in both bases. Find n-th palindromic number.
 
