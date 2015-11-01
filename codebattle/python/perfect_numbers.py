@@ -4,7 +4,7 @@
 
 #Example: true == solution(6)
 
-#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/perfect_numbers.clj
+#https://github.com/h/b/blob/master/src/b/issues/perfect_numbers.clj
 
 def solution(e):
   return sum([i for i in range(1,e//2 + 2) if not e % i]) == e 

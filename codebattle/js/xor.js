@@ -4,7 +4,7 @@
 
 //Example: "5*" == solution("xor", "ME")
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/xor.clj
+//https://github.com/h/b/blob/master/src/b/issues/xor.clj
 
 module.exports = (a,b)=>{
   var r = "";

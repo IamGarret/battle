@@ -4,7 +4,7 @@
 
 //Example: 0 == solution(0)
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/domino.clj
+//https://github.com/h/b/blob/master/src/b/issues/domino.clj
 
 function solution(max) {
   var res = 0;

@@ -4,7 +4,7 @@
 
 //Example: "L10n" == solution("Localization")
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/shorten_string.clj
+//https://github.com/h/b/blob/master/src/b/issues/shorten_string.clj
 
 module.exports = (s) =>
 {

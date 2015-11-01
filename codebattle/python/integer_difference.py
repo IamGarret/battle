@@ -4,7 +4,7 @@
 
 #Example: 3 == solution(4, [1,1,5,6,9,16,27])
 
-#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/integer_difference.clj
+#https://github.com/h/b/blob/master/src/b/issues/integer_difference.clj
 
 # BEGIN implement function `solution` here 
 def solution(d, xs):

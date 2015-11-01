@@ -4,7 +4,7 @@
 
 //Example: 6 == solution(28)
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/factorial_trailing_zeroes.clj
+//https://github.com/h/b/blob/master/src/b/issues/factorial_trailing_zeroes.clj
 
 module.exports = (n) => {
   var count = 0;

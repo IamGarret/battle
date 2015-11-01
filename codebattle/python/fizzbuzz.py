@@ -4,7 +4,7 @@
 
 #Example: "Fizz" == solution(3)
 
-#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/fizzbuzz.clj
+#https://github.com/h/b/blob/master/src/b/issues/fizzbuzz.clj
 
 # BEGIN implement function `solution` here 
 def solution(x):

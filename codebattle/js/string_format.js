@@ -4,7 +4,7 @@
 
 //Example: "Value is 00123" == solution(123)
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/string_format.clj
+//https://github.com/h/b/blob/master/src/b/issues/string_format.clj
 
 // BEGIN implement function `solution` here 
 function solution(num){

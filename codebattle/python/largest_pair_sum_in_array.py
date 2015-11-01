@@ -4,7 +4,7 @@
 
 #Example: 11 == solution([1,2,3,4,5,6])
 
-#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/largest_pair_sum_in_array.clj
+#https://github.com/h/b/blob/master/src/b/issues/largest_pair_sum_in_array.clj
 
 # BEGIN implement function `solution` here 
 def solution(a):

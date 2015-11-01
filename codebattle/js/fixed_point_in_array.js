@@ -4,7 +4,7 @@
 
 //Example: 3 == solution([-10,-5,0,3,7])
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/fixed_point_in_array.clj
+//https://github.com/h/b/blob/master/src/b/issues/fixed_point_in_array.clj
 
 module.exports = (arr)=>{
  for(var i = 0;i < arr.length;i++){

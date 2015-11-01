@@ -4,7 +4,7 @@
 
 #Example: 13 == solution(7)
 
-#https://github.com/Hexlet/battle_asserts/tree/master/src/battle_asserts/issues/fibonacci.clj
+#https://github.com/h/b/tree/master/src/b/issues/fibonacci.clj
 
 # BEGIN implement function `solution` here 
 def solution(i):

@@ -4,7 +4,7 @@
 
 #Example: [-4,-3] == solution([-1,-2,-4,-3,0,3,2,1])
 
-#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/pair_with_maximum_product.clj
+#https://github.com/h/b/blob/master/src/b/issues/pair_with_maximum_product.clj
 
 # BEGIN implement function `solution` here 
 def solution(arr)

@@ -4,7 +4,7 @@
 
 #Example: 170 == solution(5)
 
-#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/difference_of_squares.clj
+#https://github.com/h/b/blob/master/src/b/issues/difference_of_squares.clj
 
 # BEGIN implement function `solution` here 
 def solution(n):

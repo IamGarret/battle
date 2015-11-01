@@ -4,6 +4,6 @@
 
 //Example: 13 == solution(8)
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/power_digits_sum.clj
+//https://github.com/h/b/blob/master/src/b/issues/power_digits_sum.clj
 
 module.exports = n =>Math.pow(2,n).toString().split('').reduce((t,e)=>t+Number(e),0))

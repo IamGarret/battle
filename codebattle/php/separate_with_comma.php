@@ -6,7 +6,7 @@
 
 //Example: "1,238,592" == solution(1238592)
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/separate_with_comma.clj
+//https://github.com/h/b/blob/master/src/b/issues/separate_with_comma.clj
 
 // BEGIN implement function `solution` here 
 function solution($a) {

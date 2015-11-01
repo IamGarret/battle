@@ -6,7 +6,7 @@
 
 //Example: "UGCACCAGAAUU" == solution("ACGTGGTCTTAA")
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/rna_transcription.clj
+//https://github.com/h/b/blob/master/src/b/issues/rna_transcription.clj
 
 // BEGIN implement function `solution` here 
 function solution($a) {

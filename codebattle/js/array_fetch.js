@@ -4,7 +4,7 @@
 
 //Example: "b" == solution(["a","b","c"], 1, "d")
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/array_fetch.clj
+//https://github.com/h/b/blob/master/src/b/issues/array_fetch.clj
 
 // BEGIN implement function `solution` here 
 function solution(x, y, z)

@@ -6,7 +6,7 @@
 
 //Example: 5 == solution(3)
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/double_base_palindromes.clj
+//https://github.com/h/b/blob/master/src/b/issues/double_base_palindromes.clj
 
 function checkIfPal($n) { 
     $n = (string) $n; 

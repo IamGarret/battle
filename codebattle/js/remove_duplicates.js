@@ -4,6 +4,6 @@
 
 //Example: [1,2,3,4,5] == solution([1,2,2,2,3,4,4,5])
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/remove_duplicates.clj
+//https://github.com/h/b/blob/master/src/b/issues/remove_duplicates.clj
 
 module.exports = v => Array.from(new Set(v))

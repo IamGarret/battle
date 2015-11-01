@@ -6,7 +6,7 @@
 
 //Example: "olleH ,ereht dna woh era ?uoy" == solution("Hello there, and how are you?")
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/reverse_each_word.clj
+//https://github.com/h/b/blob/master/src/b/issues/reverse_each_word.clj
 
 // BEGIN implement function `solution` here 
 function solution($a) {

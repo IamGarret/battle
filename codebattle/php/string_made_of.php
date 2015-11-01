@@ -6,7 +6,7 @@
 
 //Example: 18 == solution("12134")
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/string_made_of.clj
+//https://github.com/h/b/blob/master/src/b/issues/string_made_of.clj
 
 function solution($a) { 
 

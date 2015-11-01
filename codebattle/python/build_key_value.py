@@ -4,7 +4,7 @@
 
 #Example: {"x[0]":"1","x[1]":"2","x[2]":"3"} == solution({"x":["1","2","3"]})
 
-#https://github.com/Hexlet/battle_asserts/tree/master/src/battle_asserts/issues/build_key_value.clj
+#https://github.com/h/b/tree/master/src/b/issues/build_key_value.clj
 
 # BEGIN implement function `solution` here 
 def _solution(res, k, v):

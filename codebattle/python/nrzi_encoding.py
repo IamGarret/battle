@@ -6,7 +6,7 @@
 #             ?|___|?????|___|?|_|?
 #Example: "010010000100111" == solution("\u00af|___|\u00af\u00af\u00af\u00af\u00af|___|\u00af|_|\u00af")
 
-#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/nrzi_encoding.clj
+#https://github.com/h/b/blob/master/src/b/issues/nrzi_encoding.clj
 
 # BEGIN implement function `solution` here 
 def solution(s):
