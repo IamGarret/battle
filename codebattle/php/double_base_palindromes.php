@@ -32,6 +32,6 @@ function solution($n) {
     return $curValue; 
 }
 
-echo solution(3);
+echo solution(20);
 
 ?>
