@@ -6,7 +6,7 @@
 
 //Example: true == solution("zzbinqs", "dragonborn dragonborn by his honor in sworm")
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/word_pattern.clj
+//https://github.com/H/b/blob/master/src/b/issues/word_pattern.clj
 
 // BEGIN implement function `solution` here 
 

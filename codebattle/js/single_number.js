@@ -4,7 +4,7 @@
 
 //Example: 6 == solution([8,6,8,7,2,2,7,1,9,9,1])
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/single_number.clj
+//https://github.com/H/b/blob/master/src/b/issues/single_number.clj
 
 module.exports = (a) => {
   a.sort()

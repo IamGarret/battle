@@ -8,7 +8,7 @@
 //             ?|___|?????|___|?|_|?
 //Example: "010010000100111" == solution("?|___|?????|___|?|_|?")
 
-//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/nrzi_encoding.clj
+//https://github.com/H/b/blob/master/src/b/issues/nrzi_encoding.clj
 
 // BEGIN implement function `solution` here 
 
