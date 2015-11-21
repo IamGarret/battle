@@ -4,7 +4,7 @@
 
 #Example: [3,3,3,3,2,2,2,12,12,4,5] == solution([2,3,2,4,5,12,2,3,3,3,12])
 
-#https://github.com/h/b/blob/master/src/b/issues/sort_elements_by_frequency.clj
+#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/sort_elements_by_frequency.clj
 
 # BEGIN implement function `solution` here 
 def solution(arr)

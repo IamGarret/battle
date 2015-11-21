@@ -4,6 +4,6 @@
 
 //Example: "adfs" == solution("asfsfdss")
 
-//https://github.com/h/b/blob/master/src/b/issues/get_alphabet.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/get_alphabet.clj
 
 module.exports = str=>Array.from(new Set(str.split(''))).sort().join('');

@@ -4,7 +4,7 @@
 
 #Example: 5 == solution(4)
 
-#https://github.com/h/b/blob/master/src/b/issues/next_lucky_number.clj
+#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/next_lucky_number.clj
 
 # BEGIN implement function `solution` here 
 from itertools import *

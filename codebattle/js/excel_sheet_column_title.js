@@ -4,7 +4,7 @@
 
 //Example: "YP" == solution(666)
 
-//https://github.com/h/b/blob/master/src/b/issues/excel_sheet_column_title.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/excel_sheet_column_title.clj
 
 function solution(n){
   var a = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -20,3 +20,19 @@ function solution(n){
 }
 
 module.exports = solution
+
+//alternative:
+
+/* function solution(x)
+{
+  return toLetters(x)
+}
+// END
+function toLetters(num) {
+    var mod = num % 26,
+        pow = num / 26 | 0,
+        out = mod ? String.fromCharCode(64 + mod) : (--pow, 'Z');
+    return pow ? toLetters(pow) + out : out;
+}
+
+module.exports = solution; */

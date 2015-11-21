@@ -4,7 +4,7 @@
 
 //Example: {"draft":0,"completed":0} == solution(["draft","completed"], 0)
 
-//https://github.com/h/b/blob/master/src/b/issues/build_hash_with_default.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/build_hash_with_default.clj
 
 'strict mode'
 module.exports = (arr, v) => {

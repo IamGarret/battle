@@ -4,7 +4,7 @@
 
 #Example: 2 == solution([1,5,3,4,2], 3)
 
-#https://github.com/h/b/blob/master/src/b/issues/count_pair_with_difference_equal_to_k.clj
+#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/count_pair_with_difference_equal_to_k.clj
 
 # BEGIN implement function `solution` here 
 def solution(arr, n):

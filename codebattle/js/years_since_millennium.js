@@ -4,7 +4,7 @@
 
 //Example: 15 == solution(2015)
 
-//https://github.com/h/b/blob/master/src/b/issues/years_since_millennium.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/years_since_millennium.clj
 
 // BEGIN implement function `solution` here 
 function solution (x)

@@ -6,7 +6,7 @@
 
 //Example: 36 == solution(20)
 
-//https://github.com/h/b/blob/master/src/b/issues/hamming_numbers.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/hamming_numbers.clj
 
 // BEGIN implement function `solution` here 
 function fill($n) {

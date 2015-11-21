@@ -4,7 +4,7 @@
 
 #Example: "awbxcydz" == solution("abcd", "wxyz")
 
-#https://github.com/h/b/blob/master/src/b/issues/concat_chess.clj
+#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/concat_chess.clj
 
 # BEGIN implement function `solution` here 
 def solution(a,b)

@@ -4,14 +4,16 @@
 
 //Example: "awbxcydz" == solution("abcd", "wxyz")
 
-//https://github.com/h/b/blob/master/src/b/issues/concat_chess.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/concat_chess.clj
+
 
 // BEGIN implement function `solution` here 
 module.exports = (a,b)=>{
   var r = ""
-  for(var i=0;i<a.length || i<b.length;i++)
+  for(var i=0;i<a.length || i<b.length;i++){
     if(a[i]!=undefined)r+=a[i];
     if(b[i]!=undefined)r+=b[i];
   }
-  return r
+  return r;
 }
+// END

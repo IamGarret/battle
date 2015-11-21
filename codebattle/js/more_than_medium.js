@@ -4,7 +4,7 @@
 
 //Example: ["This","sample","string"] == solution("This is a sample string")
 
-//https://github.com/h/b/blob/master/src/b/issues/more_than_medium.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/more_than_medium.clj
 
 module.exports = s =>{
   var ws = s.replace(/\./g,'').split(' ')

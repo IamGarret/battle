@@ -4,7 +4,7 @@
 
 #Example: true == solution([12,34,11,9,3], [7,2,1,5])
 
-#https://github.com/h/b/blob/master/src/b/issues/disjoint_sets.clj
+#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/disjoint_sets.clj
 
 # BEGIN implement function `solution` here 
 

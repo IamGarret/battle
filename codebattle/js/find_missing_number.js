@@ -4,7 +4,7 @@
 
 //Example: 1 == solution([2,3,4,5])
 
-//https://github.com/h/b/blob/master/src/b/issues/find_missing_number.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/find_missing_number.clj
 
 module.exports = v => {
   for(var i=0; i<=v.length; i++){

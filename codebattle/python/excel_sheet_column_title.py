@@ -4,7 +4,7 @@
 
 #Example: "YP" == solution(666)
 
-#https://github.com/h/b/blob/master/src/b/issues/excel_sheet_column_title.clj
+#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/excel_sheet_column_title.clj
 
 def solution(n):
     a= (n-1)%26

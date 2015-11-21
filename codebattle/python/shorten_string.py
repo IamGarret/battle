@@ -4,7 +4,7 @@
 
 #Example: "L10n" == solution("Localization")
 
-#https://github.com/h/b/blob/master/src/b/issues/shorten_string.clj
+#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/shorten_string.clj
 
 # BEGIN implement function `solution` here 
 def solution(s):

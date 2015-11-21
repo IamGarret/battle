@@ -8,8 +8,6 @@
 //             ?|___|?????|___|?|_|?
 //Example: "010010000100111" == solution("?|___|?????|___|?|_|?")
 
-//https://github.com/H/b/blob/master/src/b/issues/nrzi_encoding.clj
-
 // BEGIN implement function `solution` here 
 
 function solution($s) {
@@ -30,3 +28,13 @@ function solution($s) {
 }
 
 // END
+
+//my version:
+
+function solution ($a){
+	
+    $arr = array ("|_"=>"1","|?"=>"1","?"=>"0","_"=>"0");
+    $a = strtr ($a, $arr);
+    return $a;
+    
+}

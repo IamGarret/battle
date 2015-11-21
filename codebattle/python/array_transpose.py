@@ -4,7 +4,7 @@
 
 #Example: [[1,"a"],[2,"b"],[3,"c"]] == solution([[1,2,3],["a","b","c"]])
 
-#https://github.com/h/b/blob/master/src/b/issues/array_transpose.clj
+#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/array_transpose.clj
 
 # BEGIN implement function `solution` here 
 def solution(data):
@@ -13,3 +13,6 @@ def solution(data):
       
     
 # END
+
+def solution(lol):
+  return list(map(list,zip(*lol)))

@@ -4,7 +4,7 @@
 
 //Example: [12] == solution("find a word in some sentence", "in")
 
-//https://github.com/h/b/blob/master/src/b/issues/word_positions.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/word_positions.clj
 
 module.exports = (s,s1) => {
   var i=[], j=0; 

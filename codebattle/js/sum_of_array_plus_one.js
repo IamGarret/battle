@@ -4,7 +4,7 @@
 
 //Example: 16 == solution([12,-3,0,3])
 
-//https://github.com/h/b/blob/master/src/b/issues/sum_of_array_plus_one.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/sum_of_array_plus_one.clj
 
 // BEGIN implement function `solution` here 
 function solution(arr){

@@ -6,7 +6,7 @@
 
 //Example: 4227 == solution(200)
 
-//https://github.com/h/b/blob/master/src/b/issues/sum_primes.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/sum_primes.clj
 
 // BEGIN implement function `solution` here 
 function solution($a) {

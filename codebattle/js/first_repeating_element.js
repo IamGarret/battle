@@ -4,7 +4,7 @@
 
 //Example: 5 == solution([10,5,3,4,3,5,6])
 
-//https://github.com/h/b/blob/master/src/b/issues/first_repeating_element.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/first_repeating_element.clj
 
 module.exports = (n) => {
  for(var i = 0;i < n.length;i++){

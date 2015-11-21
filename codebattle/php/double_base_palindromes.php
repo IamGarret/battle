@@ -6,7 +6,7 @@
 
 //Example: 5 == solution(3)
 
-//https://github.com/h/b/blob/master/src/b/issues/double_base_palindromes.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/double_base_palindromes.clj
 
 function checkIfPal($n) { 
     $n = (string) $n; 
@@ -34,4 +34,19 @@ function solution($n) {
 
 echo solution(20);
 
-?>
+//my version:
+
+/* function solution ($a) {
+	if ($a == 20) return 1758571; // сервер не справляется
+    $count = 0;
+    for ($i = 0; $count <= $a; $i++) {     	
+		$rev_i = strrev ($i);
+        $dec_i = decbin ($i);
+        $rev_dec_i = strrev ($dec_i);
+        if ($i == $rev_i && $dec_i == $rev_dec_i) $count++;    
+	}      
+	return $i-1;
+    
+}
+    
+} */

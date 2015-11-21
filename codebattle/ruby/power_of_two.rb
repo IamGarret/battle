@@ -4,7 +4,7 @@
 
 #Example: true == solution(16)
 
-#https://github.com/h/b/blob/master/src/b/issues/power_of_two.clj
+#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/power_of_two.clj
 
 # BEGIN implement function `solution` here 
 def solution(n)

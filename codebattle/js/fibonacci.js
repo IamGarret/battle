@@ -4,7 +4,7 @@
 
 //Example: 13 == solution(7)
 
-//https://github.com/h/b/blob/master/src/b/issues/fibonacci.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/fibonacci.clj
 
 module.exports = num=>{
   var fib = [0, 1];

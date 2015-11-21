@@ -4,7 +4,7 @@
 
 //Example: true == solution(7)
 
-//https://github.com/h/b/blob/master/src/b/issues/happy_numbers.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/happy_numbers.clj
 
 module.exports = n => {
   var h = {}

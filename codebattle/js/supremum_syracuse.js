@@ -4,7 +4,7 @@
 
 //Example: 16 == solution(6)
 
-//https://github.com/h/b/blob/master/src/b/issues/supremum_syracuse.clj
+//https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/supremum_syracuse.clj
 
 function solution(x)
 {

@@ -4,7 +4,7 @@
 
 #Example: [[1,"a"],[2,"b"],[3,"c"]] == solution([[1,2,3],["a","b","c"]])
 
-#https://github.com/h/b/blob/master/src/b/issues/array_transpose.clj
+#https://github.com/Hexlet/battle_asserts/blob/master/src/battle_asserts/issues/array_transpose.clj
 
 # BEGIN implement function `solution` here 
 def solution(input)
@@ -14,5 +14,24 @@ def solution(input)
     input.map{|n| output[j] << n.shift}
   end
   output
+end
+# END
+
+# BEGIN implement function `solution` here 
+def takeRow(n, res)
+  result = []
+  res.each do |arr|
+    result.push arr[n]
+  end  
+  result
+end
+
+def solution(arr)
+  return arr if arr == nil or arr[0] == nil
+  result = []
+  arr[0].length.times do |ind|
+    result.push takeRow(ind, arr)
+  end
+  result
 end
 # END
