@@ -7,6 +7,10 @@
 		public function __call($method, $args) {
 			throw new publicException("Method " . get_class($this) . "::" . $method . " doesn't exist");
 		}
+		
+		public function test() {
+			
+		}
 		//TODO: Write your own macroses here
 	};
 ?>
